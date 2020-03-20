@@ -1,0 +1,71 @@
+<library>
+    <books>
+
+        <book>
+            <title>The Art of War</title>
+            <author>Sun Cu</author>
+            <publisher>Penguin</publisher>
+        </book>
+
+        <book>
+            <title>Il Principe</title>
+            <author>Niccolo Machiavelli</author>
+            <publisher>Random House</publisher>
+        </book>
+
+        <book>
+            <title>Ars Amoris</title>
+            <author>Ovid</author>
+            <publisher>Scholastic</publisher>
+        </book>
+
+    </books>
+
+    <movies>
+
+        <movie>
+            <title>The Shawshank Redemption</title>
+            <director>Frank Darabont</director>
+            <starring>Tim Robbins, Morgan Freeman</starring>
+            <year>1994</year>
+        </movie>
+
+         <movie>
+            <title>Joker</title>
+            <director>Todd Phillips</director>
+            <starring>Joaquin Phoenix</starring>
+            <year>2019</year>
+        </movie>
+
+         <movie>
+            <title>Fight Club</title>
+            <director>David Fincher</director>
+            <starring>Edward Norton, Brad Pitt</starring>
+            <year>1999</year>
+        </movie>
+
+    </movies>
+
+    <albums>
+
+        <album>
+            <artist>Bob Marley and the Wailers</artist>
+            <title>Exodus</title>
+            <year>1977</year>
+        </album>
+
+          <album>
+            <artist>Red Hot Chili Peppers</artist>
+            <title>I'm With You</title>
+            <year>2011</year>
+        </album>
+
+          <album>
+            <artist>The Rolling Stones</artist>
+            <title>Let It Bleed</title>
+            <year>1969</year>
+        </album>
+
+    </albums>
+
+</library>
